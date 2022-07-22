@@ -1,0 +1,19 @@
+{
+    "name": "yonder/timer",
+    "description": "Provides basic execution time capabilities via a trait, or class",
+    "type": "library",
+    "license": "None",
+    "autoload": {
+        "psr-4": {
+            "Yonder\\Timer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stuart Steedman"
+        }
+    ],
+    "require": {
+        "php" : "^7.4|8.*|9.*"
+    }
+}
